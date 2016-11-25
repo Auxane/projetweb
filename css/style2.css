@@ -1,0 +1,15 @@
+.formulaire{
+	margin-top:30px;
+}
+
+.formulaire textarea{
+	color:white;
+	background-color: grey;
+	width: 500px;
+	height: 300px;
+}
+.formulaire input{
+	color:white;
+	background-color: grey;
+}
+
